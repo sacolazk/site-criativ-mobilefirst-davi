@@ -1,5 +1,7 @@
-body{
+.cabecalho{
     background-color: #424e61;
 }
-.cabecalho-imagem{}
+.cabecalho-imagem{
+    width: 20%;
+}
 
